@@ -20,7 +20,8 @@ libyaml-devel \
 openssl-devel \
 python-lxml \
 cronie \
-nginx
+nginx \
+python-devel
 
 RUN curl -L https://www.chef.io/chef/install.sh | bash
 

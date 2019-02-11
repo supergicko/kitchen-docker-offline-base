@@ -1,3 +1,7 @@
+# 0.3.0
+
+Install `python-devel` package
+
 # 0.2.0
 
 Install `nginx` package
